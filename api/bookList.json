@@ -4,19 +4,19 @@
             "id": 1,
             "title": "Fahrenheit 451",
             "author": "Ray Bradbury ",
-            "cover": ""
+            "cover": "https://github.com/acnormun/livros-a-jato/blob/main/api/covers/fahrenheit_451.jpg?raw=true"
         },
         {
             "id": 2,
             "title": "O Mito da Beleza",
             "author": "Naomi Wolf",
-            "cover": ""
+            "cover": "https://github.com/acnormun/livros-a-jato/blob/main/api/covers/o_mito_da_beleza.jpg?raw=true"
         },
         {
             "id": 3,
             "title": "O Silmarillion",
             "author": "JRR Tolkien",
-            "cover": ""
+            "cover": "https://github.com/acnormun/livros-a-jato/blob/main/api/covers/o_silmarillion.jpg?raw=true"
         }
     ]
 }
