@@ -1,0 +1,22 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury ",
+            "cover": ""
+        },
+        {
+            "id": 2,
+            "title": "O Mito da Beleza",
+            "author": "Naomi Wolf",
+            "cover": ""
+        },
+        {
+            "id": 3,
+            "title": "O Silmarillion",
+            "author": "JRR Tolkien",
+            "cover": ""
+        }
+    ]
+}
